@@ -2,6 +2,7 @@
 
 - 👨‍🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá;
 - 👩‍💻 Estagiário de TI na Fundace FEARP-USP;
+- :computer: Aprendendo C++ e Python;
 ##
 
   <div>
