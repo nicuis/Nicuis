@@ -1,7 +1,7 @@
 ### Olá eu sou o Nicolas!!
 
 - 👨‍🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá;
-- 👩‍💻 Aprendendo C++ e Python;
+- 👩‍💻 Conhecimentos em Golang, Python e C++;
 - :computer: Estagiário de TI na Fundace FEARP-USP;
 ##
 
