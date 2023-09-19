@@ -2,7 +2,7 @@
 - 🌃 Ribeirão Preto - SP
 - 👨‍🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá;
 - 👩‍💻 Conhecimentos em Golang, Python e C++;
-- :computer: Estagiário de TI na Fundace FEARP-USP;
+- :computer: Assistente de TI na Fundace FEARP-USP;
 ##
 
 
